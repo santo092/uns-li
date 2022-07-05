@@ -2,7 +2,7 @@
 <xliff
   version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-  MadCap:translationStatus="in-progress">
+  MadCap:translationStatus="completed">
   <file
     xml:space="preserve"
     original="Procedure1.htm"
@@ -137,8 +137,8 @@
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="11"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0">nuce</mrk><mrk
             mtype="protected"
             mid="12"
             MadCap:segmentStatus="Untranslated"
@@ -146,7 +146,7 @@
             mtype="seg"
             mid="13"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:matchPercent="0">nice</mrk><mrk
             mtype="protected"
             mid="14"
             MadCap:segmentStatus="Untranslated"
@@ -154,7 +154,7 @@
             mtype="seg"
             mid="15"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:matchPercent="0">dice</mrk><mrk
             mtype="protected"
             mid="16"
             MadCap:segmentStatus="Untranslated"
@@ -162,7 +162,7 @@
             mtype="seg"
             mid="17"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:matchPercent="0">por</mrk><mrk
             mtype="protected"
             mid="18"
             MadCap:segmentStatus="Untranslated"
@@ -170,6 +170,6 @@
             mtype="seg"
             mid="19"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit></body>
+            MadCap:matchPercent="0">grue</mrk></target></trans-unit></body>
   </file>
 </xliff>
