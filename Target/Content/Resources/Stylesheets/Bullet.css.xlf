@@ -1,0 +1,3119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="Bullet.css"
+    source-language="en-us"
+    MadCap:file-filter=""
+    datatype="x-css"
+    target-language="de-de">
+    <header>
+      <skl><external-file
+          href="Bullet.css.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">312</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11 r2"
+        tool-name="Lingo"
+        tool-version="11.1.7796.16213"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family  Roboto Medium}</ph>Important!  <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family  Roboto Medium}</ph>Important!</mrk><mrk
+            mtype="protected"
+            mid="2">  </mrk><mrk
+            mtype="seg"
+            mid="3"><ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-mc-leader-format"
+        phase-name="pretrans"><source>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-mc-leader-format"
+        phase-name="pretrans"><source>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-mc-leader-format"
+        phase-name="pretrans"><source>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-mc-heading-format"
+        phase-name="pretrans"><source>– <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{A}</ph> –</source><seg-source><mrk
+            mtype="seg"
+            mid="1">– <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{A}</ph> –</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>Figure <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>-<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Cn+}</ph>: </source><seg-source><mrk
+            mtype="seg"
+            mid="1">Figure <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>-<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Cn+}</ph>:</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>Figure <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>-<ph
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Cn+}</ph>: <ph
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>Figure <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>-<ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Cn+}</ph>: <ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="13"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="14"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>NOTE – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>NOTE – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="15"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="16"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{color #00395c}{size 14pt}</ph> • <ph
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/size}{/color}</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{color #00395c}{size 14pt}</ph> • <ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/size}{/color}</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="17"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>Note:  <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>Note:  <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="18"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>Q<ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n+}</ph>. </source><seg-source><mrk
+            mtype="seg"
+            mid="1">Q<ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n+}</ph>.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="protected"
+            mid="3" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="19"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>GH:Appendix <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph> - </source><seg-source><mrk
+            mtype="seg"
+            mid="1">GH:Appendix <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph> -</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="20"
+        restype="x-mc-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{paratext}</ph> on page <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{page}</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{paratext}</ph> on page <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{page}</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="21"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="22"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>WARNING – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>WARNING – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="23"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>TIP – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>TIP – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="24"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>EXAMPLE – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>EXAMPLE – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="25"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>GH:Appendix <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph> - </source><seg-source><mrk
+            mtype="seg"
+            mid="1">GH:Appendix <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph> -</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="26"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="27"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>Chapter <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph> - </source><seg-source><mrk
+            mtype="seg"
+            mid="1">Chapter <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph> -</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="28"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>.<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{secnum}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>.<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{secnum}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="protected"
+            mid="3" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="29"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>.<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{secnum}</ph>.<ph
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Sn+}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>.<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{secnum}</ph>.<ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Sn+}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="protected"
+            mid="3" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="30"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="31"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="32"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>.<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{secnum}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>.<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{secnum}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="protected"
+            mid="3" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="33"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>Q<ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n+}</ph>. </source><seg-source><mrk
+            mtype="seg"
+            mid="1">Q<ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n+}</ph>.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="protected"
+            mid="3" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="34"
+        restype="x-content"
+        phase-name="pretrans"><source></source><seg-source><mrk
+            mtype="seg"
+            mid="1"></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="35"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="36"
+        restype="x-content"
+        phase-name="pretrans"><source>£</source><seg-source><mrk
+            mtype="seg"
+            mid="1">£</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="37"
+        restype="x-content"
+        phase-name="pretrans"><source>=</source><seg-source><mrk
+            mtype="seg"
+            mid="1">=</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="38"
+        restype="x-content"
+        phase-name="pretrans"><source></source><seg-source><mrk
+            mtype="seg"
+            mid="1"></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="39"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="40"
+        restype="x-content"
+        phase-name="pretrans"><source>£</source><seg-source><mrk
+            mtype="seg"
+            mid="1">£</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="41"
+        restype="x-content"
+        phase-name="pretrans"><source>=</source><seg-source><mrk
+            mtype="seg"
+            mid="1">=</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="42"
+        restype="x-content"
+        phase-name="pretrans"><source>=</source><seg-source><mrk
+            mtype="seg"
+            mid="1">=</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="43"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="44"
+        restype="x-content"
+        phase-name="pretrans"><source>£</source><seg-source><mrk
+            mtype="seg"
+            mid="1">£</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="45"
+        restype="x-content"
+        phase-name="pretrans"><source>=</source><seg-source><mrk
+            mtype="seg"
+            mid="1">=</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="46"
+        restype="x-content"
+        phase-name="pretrans"><source></source><seg-source><mrk
+            mtype="seg"
+            mid="1"></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="47"
+        restype="x-content"
+        phase-name="pretrans"><source>=</source><seg-source><mrk
+            mtype="seg"
+            mid="1">=</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="48"
+        restype="x-content"
+        phase-name="pretrans"><source>=</source><seg-source><mrk
+            mtype="seg"
+            mid="1">=</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="49"
+        restype="x-content"
+        phase-name="pretrans"><source></source><seg-source><mrk
+            mtype="seg"
+            mid="1"></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="50"
+        restype="x-content"
+        phase-name="pretrans"><source>£</source><seg-source><mrk
+            mtype="seg"
+            mid="1">£</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="51"
+        restype="x-content"
+        phase-name="pretrans"><source>£</source><seg-source><mrk
+            mtype="seg"
+            mid="1">£</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="52"
+        restype="x-content"
+        phase-name="pretrans"><source>£</source><seg-source><mrk
+            mtype="seg"
+            mid="1">£</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="53"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="54"
+        restype="x-content"
+        phase-name="pretrans"><source></source><seg-source><mrk
+            mtype="seg"
+            mid="1"></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="55"
+        restype="x-content"
+        phase-name="pretrans"><source>¡</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¡</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="56"
+        restype="x-content"
+        phase-name="pretrans"><source></source><seg-source><mrk
+            mtype="seg"
+            mid="1"></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="57"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="58"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>Important! – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>Important!</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">– <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="59"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n+}</ph>. </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n+}</ph>.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="protected"
+            mid="3" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="60"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n=1}</ph>. </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n=1}</ph>.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="protected"
+            mid="3" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="61"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n+}</ph>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n+}</ph>.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="62"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Sn+}</ph>.  </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Sn+}</ph>.</mrk><mrk
+            mtype="protected"
+            mid="2">  </mrk><mrk
+            mtype="protected"
+            mid="3" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="63"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="64"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="65"
+        restype="x-content"
+        phase-name="pretrans"><source>£</source><seg-source><mrk
+            mtype="seg"
+            mid="1">£</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="66"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>Note:  </source><seg-source><mrk
+            mtype="seg"
+            mid="1">Note:</mrk><mrk
+            mtype="protected"
+            mid="2">  </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="67"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>Important!:  </source><seg-source><mrk
+            mtype="seg"
+            mid="1">Important!:</mrk><mrk
+            mtype="protected"
+            mid="2">  </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="68"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="69"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="70"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family  Roboto Medium}</ph>Important!  <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family  Roboto Medium}</ph>Important!</mrk><mrk
+            mtype="protected"
+            mid="2">  </mrk><mrk
+            mtype="seg"
+            mid="3"><ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="71"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="72"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="73"
+        restype="x-mc-leader-format"
+        phase-name="pretrans"><source>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="74"
+        restype="x-mc-leader-format"
+        phase-name="pretrans"><source>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="75"
+        restype="x-mc-leader-format"
+        phase-name="pretrans"><source>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="76"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="77"
+        restype="x-mc-heading-format"
+        phase-name="pretrans"><source>– <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{A}</ph> –</source><seg-source><mrk
+            mtype="seg"
+            mid="1">– <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{A}</ph> –</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="78"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>Figure <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>-<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Cn+}</ph>: </source><seg-source><mrk
+            mtype="seg"
+            mid="1">Figure <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>-<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Cn+}</ph>:</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="79"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>Figure <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>-<ph
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Cn+}</ph>: <ph
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>Figure <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>-<ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Cn+}</ph>: <ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="80"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>T:Table <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>-<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Cn+}</ph>: </source><seg-source><mrk
+            mtype="seg"
+            mid="1">T:Table <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>-<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Cn+}</ph>:</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="81"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="82"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>NOTE – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>NOTE – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="83"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="84"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{color #00395c}{size 14pt}</ph> • <ph
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/size}{/color}</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{color #00395c}{size 14pt}</ph> • <ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/size}{/color}</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="85"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>Note:  <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>Note:  <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="86"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>Q<ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n+}</ph>. </source><seg-source><mrk
+            mtype="seg"
+            mid="1">Q<ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n+}</ph>.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="protected"
+            mid="3" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="87"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>GH:Appendix <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph> - </source><seg-source><mrk
+            mtype="seg"
+            mid="1">GH:Appendix <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph> -</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="88"
+        restype="x-mc-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{paratext}</ph> on page <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{page}</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{paratext}</ph> on page <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{page}</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="89"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="90"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>WARNING – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>WARNING – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="91"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>TIP – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>TIP – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="92"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>EXAMPLE – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>EXAMPLE – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="93"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>GH:Appendix <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph> - </source><seg-source><mrk
+            mtype="seg"
+            mid="1">GH:Appendix <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph> -</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="94"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="95"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>Chapter <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph> - </source><seg-source><mrk
+            mtype="seg"
+            mid="1">Chapter <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph> -</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="96"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>.<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{secnum}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>.<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{secnum}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="protected"
+            mid="3" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="97"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>.<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{secnum}</ph>.<ph
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Sn+}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>.<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{secnum}</ph>.<ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Sn+}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="protected"
+            mid="3" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="98"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="99"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="100"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>.<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{secnum}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>.<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{secnum}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="protected"
+            mid="3" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="101"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>Q<ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n+}</ph>. </source><seg-source><mrk
+            mtype="seg"
+            mid="1">Q<ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n+}</ph>.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="protected"
+            mid="3" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="102"
+        restype="x-content"
+        phase-name="pretrans"><source></source><seg-source><mrk
+            mtype="seg"
+            mid="1"></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="103"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="104"
+        restype="x-content"
+        phase-name="pretrans"><source>£</source><seg-source><mrk
+            mtype="seg"
+            mid="1">£</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="105"
+        restype="x-content"
+        phase-name="pretrans"><source>=</source><seg-source><mrk
+            mtype="seg"
+            mid="1">=</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="106"
+        restype="x-content"
+        phase-name="pretrans"><source></source><seg-source><mrk
+            mtype="seg"
+            mid="1"></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="107"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="108"
+        restype="x-content"
+        phase-name="pretrans"><source>£</source><seg-source><mrk
+            mtype="seg"
+            mid="1">£</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="109"
+        restype="x-content"
+        phase-name="pretrans"><source>=</source><seg-source><mrk
+            mtype="seg"
+            mid="1">=</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="110"
+        restype="x-content"
+        phase-name="pretrans"><source>=</source><seg-source><mrk
+            mtype="seg"
+            mid="1">=</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="111"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="112"
+        restype="x-content"
+        phase-name="pretrans"><source>£</source><seg-source><mrk
+            mtype="seg"
+            mid="1">£</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="113"
+        restype="x-content"
+        phase-name="pretrans"><source>=</source><seg-source><mrk
+            mtype="seg"
+            mid="1">=</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="114"
+        restype="x-content"
+        phase-name="pretrans"><source></source><seg-source><mrk
+            mtype="seg"
+            mid="1"></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="115"
+        restype="x-content"
+        phase-name="pretrans"><source>=</source><seg-source><mrk
+            mtype="seg"
+            mid="1">=</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="116"
+        restype="x-content"
+        phase-name="pretrans"><source>=</source><seg-source><mrk
+            mtype="seg"
+            mid="1">=</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="117"
+        restype="x-content"
+        phase-name="pretrans"><source></source><seg-source><mrk
+            mtype="seg"
+            mid="1"></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="118"
+        restype="x-content"
+        phase-name="pretrans"><source>£</source><seg-source><mrk
+            mtype="seg"
+            mid="1">£</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="119"
+        restype="x-content"
+        phase-name="pretrans"><source>£</source><seg-source><mrk
+            mtype="seg"
+            mid="1">£</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="120"
+        restype="x-content"
+        phase-name="pretrans"><source>£</source><seg-source><mrk
+            mtype="seg"
+            mid="1">£</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="121"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="122"
+        restype="x-content"
+        phase-name="pretrans"><source></source><seg-source><mrk
+            mtype="seg"
+            mid="1"></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="123"
+        restype="x-content"
+        phase-name="pretrans"><source>¡</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¡</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="124"
+        restype="x-content"
+        phase-name="pretrans"><source></source><seg-source><mrk
+            mtype="seg"
+            mid="1"></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="125"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="126"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>Important! – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>Important!</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">– <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="127"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n+}</ph>. </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n+}</ph>.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="protected"
+            mid="3" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="128"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n=1}</ph>. </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n=1}</ph>.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="protected"
+            mid="3" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="129"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n+}</ph>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n+}</ph>.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="130"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Sn+}</ph>.  </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Sn+}</ph>.</mrk><mrk
+            mtype="protected"
+            mid="2">  </mrk><mrk
+            mtype="protected"
+            mid="3" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="131"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="132"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="133"
+        restype="x-content"
+        phase-name="pretrans"><source>£</source><seg-source><mrk
+            mtype="seg"
+            mid="1">£</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="134"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>Note:  </source><seg-source><mrk
+            mtype="seg"
+            mid="1">Note:</mrk><mrk
+            mtype="protected"
+            mid="2">  </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="135"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>Important!:  </source><seg-source><mrk
+            mtype="seg"
+            mid="1">Important!:</mrk><mrk
+            mtype="protected"
+            mid="2">  </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="136"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>Q<ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n+}</ph>. </source><seg-source><mrk
+            mtype="seg"
+            mid="1">Q<ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n+}</ph>.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="protected"
+            mid="3" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="137"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>Note – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph>  </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>Note – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph></mrk><mrk
+            mtype="protected"
+            mid="2">  </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="138"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>Important – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>Important – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="139"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>Example – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>Example – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="140"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>Note – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph>  </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>Note – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph></mrk><mrk
+            mtype="protected"
+            mid="2">  </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="141"
+        restype="x-mc-format"
+        phase-name="pretrans"><source>See <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{quote}{paratext}{quote}</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1">See <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{quote}{paratext}{quote}</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="142"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>Note – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph>  </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>Note – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph></mrk><mrk
+            mtype="protected"
+            mid="2">  </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="143"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>Important – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>Important – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="144"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>TIP – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>TIP – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="145"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>Note:<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph>  </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>Note:<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph></mrk><mrk
+            mtype="protected"
+            mid="2">  </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="146"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="147"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="148"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="149"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="150"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="151"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="152"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="153"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="154"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family  Roboto Medium}</ph>Important!  <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family  Roboto Medium}</ph>Important!</mrk><mrk
+            mtype="protected"
+            mid="2">  </mrk><mrk
+            mtype="seg"
+            mid="3"><ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="155"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="156"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="157"
+        restype="x-mc-leader-format"
+        phase-name="pretrans"><source>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="158"
+        restype="x-mc-leader-format"
+        phase-name="pretrans"><source>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="159"
+        restype="x-mc-leader-format"
+        phase-name="pretrans"><source>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="160"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="161"
+        restype="x-mc-heading-format"
+        phase-name="pretrans"><source>– <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{A}</ph> –</source><seg-source><mrk
+            mtype="seg"
+            mid="1">– <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{A}</ph> –</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="162"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>Figure <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>-<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Cn+}</ph>: </source><seg-source><mrk
+            mtype="seg"
+            mid="1">Figure <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>-<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Cn+}</ph>:</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="163"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>Figure <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>-<ph
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Cn+}</ph>: <ph
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>Figure <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>-<ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Cn+}</ph>: <ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="164"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="165"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>NOTE – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>NOTE – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="166"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>NOTE – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="167"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{color #00395c}{size 14pt}</ph> • <ph
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/size}{/color}</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{color #00395c}{size 14pt}</ph> • <ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/size}{/color}</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="168"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>Note:  <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{b}</ph>Note:  <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/b}</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="169"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>Q<ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n+}</ph>. </source><seg-source><mrk
+            mtype="seg"
+            mid="1">Q<ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n+}</ph>.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="protected"
+            mid="3" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="170"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>GH:Appendix <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph> - </source><seg-source><mrk
+            mtype="seg"
+            mid="1">GH:Appendix <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph> -</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="171"
+        restype="x-mc-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{paratext}</ph> on page <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{page}</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{paratext}</ph> on page <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{page}</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="172"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>T:Table <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>-<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Cn+}</ph>: </source><seg-source><mrk
+            mtype="seg"
+            mid="1">T:Table <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>-<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Cn+}</ph>:</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="173"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>WARNING – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>WARNING – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="174"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>TIP – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>TIP – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="175"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>EXAMPLE – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>EXAMPLE – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="176"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>GH:Appendix <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph> - </source><seg-source><mrk
+            mtype="seg"
+            mid="1">GH:Appendix <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph> -</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="177"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="178"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>Chapter <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph> - </source><seg-source><mrk
+            mtype="seg"
+            mid="1">Chapter <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph> -</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="179"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>.<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{secnum}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>.<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{secnum}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="protected"
+            mid="3" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="180"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>.<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{secnum}</ph>.<ph
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Sn+}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>.<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{secnum}</ph>.<ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">{Sn+}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="protected"
+            mid="3" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="181"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="182"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="183"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>.<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{secnum}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{chapnum}</ph>.<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{secnum}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="protected"
+            mid="3" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="184"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>Q<ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n+}</ph>. </source><seg-source><mrk
+            mtype="seg"
+            mid="1">Q<ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{n+}</ph>.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="protected"
+            mid="3" /></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="185"
+        restype="x-content"
+        phase-name="pretrans"><source></source><seg-source><mrk
+            mtype="seg"
+            mid="1"></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="186"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="187"
+        restype="x-content"
+        phase-name="pretrans"><source>£</source><seg-source><mrk
+            mtype="seg"
+            mid="1">£</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="188"
+        restype="x-content"
+        phase-name="pretrans"><source>=</source><seg-source><mrk
+            mtype="seg"
+            mid="1">=</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="189"
+        restype="x-content"
+        phase-name="pretrans"><source></source><seg-source><mrk
+            mtype="seg"
+            mid="1"></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="190"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="191"
+        restype="x-content"
+        phase-name="pretrans"><source>£</source><seg-source><mrk
+            mtype="seg"
+            mid="1">£</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="192"
+        restype="x-content"
+        phase-name="pretrans"><source>=</source><seg-source><mrk
+            mtype="seg"
+            mid="1">=</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="193"
+        restype="x-content"
+        phase-name="pretrans"><source></source><seg-source><mrk
+            mtype="seg"
+            mid="1"></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="194"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="195"
+        restype="x-content"
+        phase-name="pretrans"><source>£</source><seg-source><mrk
+            mtype="seg"
+            mid="1">£</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="196"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="197"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="198"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family  Roboto Medium}</ph>Important!  <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family  Roboto Medium}</ph>Important!</mrk><mrk
+            mtype="protected"
+            mid="2">  </mrk><mrk
+            mtype="seg"
+            mid="3"><ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="199"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="200"
+        restype="x-content"
+        phase-name="pretrans"><source>¢</source><seg-source><mrk
+            mtype="seg"
+            mid="1">¢</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="201"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{ }</ph></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="202"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source><ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>EXAMPLE – <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph> </source><seg-source><mrk
+            mtype="seg"
+            mid="1"><ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">{family Roboto Medium}</ph>EXAMPLE – <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">{/family}</ph></mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="203"
+        restype="x-mc-auto-number-format"
+        phase-name="pretrans"><source>Note:  </source><seg-source><mrk
+            mtype="seg"
+            mid="1">Note:</mrk><mrk
+            mtype="protected"
+            mid="2">  </mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>
